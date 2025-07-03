@@ -5,7 +5,7 @@
 <div class="background">background</div>
 <style>
   .background {
-      background-image: url('your-image.jpg'); /* Replace with your image */
+      background-image: url('https://stock.adobe.com/search/images?k=tech'); /* Replace with your image */
       background-size: cover;
       background-position: center;
       height: 100vh;
