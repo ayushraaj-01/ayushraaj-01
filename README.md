@@ -23,3 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushraaj-01&show_icons=true&locale=en&layout=compact" alt="ayushraaj-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushraaj-01&show_icons=true&locale=en" alt="ayushraaj-01" /></p>
+
+<hr>
+
+<img src="https://repository-images.githubusercontent.com/535853534/51dc23ec-3b75-421d-90e4-b30c678ac80e" alt="Snake animation" />
