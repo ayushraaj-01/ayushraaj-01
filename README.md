@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **i think i'm introvert**
 
+- [![An image of @ayushraaj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushraaj01)](https://holopin.io/@ayushraaj01) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayush-raj-3849a1335/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush raj" height="30" width="40" /></a>
