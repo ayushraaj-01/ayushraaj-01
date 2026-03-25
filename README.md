@@ -59,7 +59,7 @@
 
 
 ## Hacktober Fest 
-](https://holopin.me/ayushraaj01)](https://holopin.io/@ayushraaj01)
+holopin.io/@ayushraaj01
 ---
 
 ## 👀 Profile Views
