@@ -56,8 +56,10 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ayushraaj-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 ## Hacktober Fest 
-(https://holopin.me/ayushraaj01)](https://holopin.io/@ayushraaj01)
+https://holopin.io/@ayushraaj01
 ---
 
 ## 👀 Profile Views
