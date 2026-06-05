@@ -8,7 +8,16 @@
   </a>
 </p>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ayushraaj-01&abbreviated=true)
+
+</div>
+
+
 ---
+
+
 
 # 💫 About Me:
 🔭 Currently working on Web Development (Frontend + Backend Basics)  
