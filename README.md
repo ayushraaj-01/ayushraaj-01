@@ -50,19 +50,14 @@
 
 ## 🌐 Connect With Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayush__raj2004/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-raj-3849a1335/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayush__raj2004/)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-raj-3849a1335/)
 
 ---
 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=ayushraaj-01&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=ayushraaj-01&theme=dark&hide_border=false)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -73,9 +68,6 @@
 [![An image of @ayushraaj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushraaj01)](https://holopin.io/@ayushraaj01)
 ---
 
-## 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=ayushraaj-01&icon=10&color=13)](https://visitcount.itsvg.in)
 
 ---
 
