@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ayush Raj   
 
+
+
 ## 📄 Resume
 
 <p align="center">
@@ -8,6 +10,7 @@
   </a>
 </p>
 
+## Profile views:
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=ayushraaj-01&abbreviated=true)
