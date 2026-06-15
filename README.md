@@ -66,7 +66,7 @@
 
 
 
-## Hacktober Fest 
+## Hacktober Fest:
 
 [![An image of @ayushraaj01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushraaj01)](https://holopin.io/@ayushraaj01)
 ---
@@ -74,4 +74,4 @@
 
 ---
 
-⭐️ From [Ayush Raj](https://github.com/ayushraaj-01)
+❤️ From [Ayush Raj](https://github.com/ayushraaj-01)
