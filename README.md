@@ -66,11 +66,27 @@
 
 ---
 
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=ayushraaj-01&theme=dark&hide_border=false)    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraaj-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushraaj-01&show_icons=true&theme=tokyonight"/>
 
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushraaj-01&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushraaj-01&theme=tokyo-night"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushraaj-01&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
 ---
 
 
