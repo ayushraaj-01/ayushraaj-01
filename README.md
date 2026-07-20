@@ -1,7 +1,6 @@
 # 👋 Yoo World, It's Ayushh!!
 
 
-gh repo create ayushraaj-01 --public --clone cd ayushraaj-01 mkdir -p scripts data.github/workflows
 
 
 
