@@ -7,7 +7,7 @@
 
 
 
-## 📄 Resume:
+## 📄 Resume:-
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1cHMetAEPy6CmXu-4olhC-7XlvYuDFGCv/view?usp=drive_link" target="_blank">
